@@ -262,7 +262,7 @@ h2.heading-title{
 }
 
 h2.title{
-	font-size: 60px;
+	font-size: 40px;
 	line-height:60px;
 	color: #fff;
 	font-weight: 700;
@@ -270,14 +270,14 @@ h2.title{
 }
 
 .line-top{
-	width: 930px;
+	width: 730px;
 	color: #fff;
 	background: #fff;
 	height: 2px;
 	margin: 32px auto;
 }
 .line-btm{
-	width: 930px;
+	width: 730px;
 	color: #fff;
 	background: #fff;
 	height: 2px;
@@ -307,7 +307,7 @@ h2.title{
 .navbar-default .navbar-nav > li > a{
 	text-transform: uppercase;
 	font-weight: 700;
-	padding: 30px 20px;
+	padding: 10px 23px;
 	font-size: 16px;
 	font-family: 'Roboto', serif;
 	color: #fff;
@@ -318,7 +318,21 @@ h2.title{
 }
 .main-nav{
 	width: 100%;
-	margin: 0 auto;
+	/*margin: 0 auto;*/
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
